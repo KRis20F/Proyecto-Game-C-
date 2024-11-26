@@ -1,11 +1,12 @@
-class Magic : Player{
+class Warrior : Player {
+
     public string attack { get; set; }
     public string speciallyAttack { get; set; }
 
-    public Magic( int health, int level, double hability, string attack, string speciallyAttack) : base (health, level, hability)  {
+    public Warrior( int health, int level, double hability, string attack, string speciallyAttack) : base (health, level, hability)  {
         this.attack = attack;
         this.speciallyAttack = speciallyAttack;
     }
 
-
+    
 }

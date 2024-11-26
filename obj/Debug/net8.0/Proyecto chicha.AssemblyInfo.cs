@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto chicha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c2645686d73803c7911f6a87d3b7746afdc4e9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto chicha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto chicha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

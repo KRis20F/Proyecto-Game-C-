@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kris\\Desktop\\Proyecto chicha\\Proyecto chicha.csproj": {}
+    "C:\\Users\\kris\\Desktop\\Nueva carpeta\\Proyecto-Game-C-\\Proyecto chicha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kris\\Desktop\\Proyecto chicha\\Proyecto chicha.csproj": {
+    "C:\\Users\\kris\\Desktop\\Nueva carpeta\\Proyecto-Game-C-\\Proyecto chicha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kris\\Desktop\\Proyecto chicha\\Proyecto chicha.csproj",
+        "projectUniqueName": "C:\\Users\\kris\\Desktop\\Nueva carpeta\\Proyecto-Game-C-\\Proyecto chicha.csproj",
         "projectName": "Proyecto chicha",
-        "projectPath": "C:\\Users\\kris\\Desktop\\Proyecto chicha\\Proyecto chicha.csproj",
+        "projectPath": "C:\\Users\\kris\\Desktop\\Nueva carpeta\\Proyecto-Game-C-\\Proyecto chicha.csproj",
         "packagesPath": "C:\\Users\\kris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kris\\Desktop\\Proyecto chicha\\obj\\",
+        "outputPath": "C:\\Users\\kris\\Desktop\\Nueva carpeta\\Proyecto-Game-C-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kris\\AppData\\Roaming\\NuGet\\NuGet.Config"
