@@ -1,12 +1,8 @@
-class Enemy {
+class Enemy : Character {
     
-    public int health { get;  }
-    public int level { get; }
+    public Enemy(string name, int health, int level) : base(name, health,level){}
 
-    public Enemy(int health, int level) {
-        health = new Random().Next(0,10);
-        this.level = level;
+    public override int Attack () {
+        return base.Attack();
     }
-
-
 }

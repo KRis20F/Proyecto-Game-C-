@@ -1,11 +1,22 @@
 class Magic : Player{
-    public string attack { get; set; }
-    public string speciallyAttack { get; set; }
+    
+    public int speciallyHabality { get; set; }
 
-    public Magic( int health, int level, double hability, string attack, string speciallyAttack) : base (health, level, hability)  {
-        this.attack = attack;
-        this.speciallyAttack = speciallyAttack;
+    public Magic(string name, int health, int level, int hability, int speciallyHabality):base (name, health, level, hability){
+        this.speciallyHabality = speciallyHabality;
     }
 
+    public override int Attack() {
+        return base.Attack() + 4;
+    }
+
+    public void getLife(int shift) {
+        if ((shift - speciallyHabality) >= 3 )
+        {
+            health += 2;
+            speciallyHabality = shift;
+        }
+
+    }
 
 }

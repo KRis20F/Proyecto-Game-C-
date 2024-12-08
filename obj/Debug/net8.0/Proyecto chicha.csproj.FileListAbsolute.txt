@@ -1,0 +1,15 @@
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\Proyecto chicha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\Proyecto chicha.AssemblyInfoInputs.cache
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\Proyecto chicha.AssemblyInfo.cs
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\Proyecto chicha.csproj.CoreCompileInputs.cache
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\Proyecto chicha.sourcelink.json
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\bin\Debug\net8.0\Proyecto chicha.exe
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\bin\Debug\net8.0\Proyecto chicha.deps.json
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\bin\Debug\net8.0\Proyecto chicha.runtimeconfig.json
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\bin\Debug\net8.0\Proyecto chicha.dll
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\bin\Debug\net8.0\Proyecto chicha.pdb
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\Proyecto chicha.dll
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\refint\Proyecto chicha.dll
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\Proyecto chicha.pdb
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\Proyecto chicha.genruntimeconfig.cache
+C:\Users\kris\Desktop\Nueva carpeta\Proyecto-Game-C-\obj\Debug\net8.0\ref\Proyecto chicha.dll

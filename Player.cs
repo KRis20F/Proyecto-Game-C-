@@ -1,27 +1,16 @@
-class Player {
-    public int health { get; set;} 
-    public int level { get; set;}
-    public double hability { get; set;}
-
-    public Player(int health, int level, double hability) {
-        this.health = health;
-        this.level = level;
+class Player : Character {
+    
+    public int hability { get; set; }
+    public Player(string name, int health, int level, int hability) : base(name ,health, level ){
         this.hability = hability;
     }
 
-    public int dice(){
-        Random random = new Random();
-        return random.Next(1, 7) + random.Next(1, 7);
+    public override int Attack () {
+        int attackdice = dice();
+        int bonusHability = Convert.ToInt32(hability * 0.10);
+        return attackdice + bonusHability;
     }
 
-    public virtual void Figth(){
-        int attack = dice();
-        hability += 0.10;
-        Console.WriteLine($"Player atacó con {attack} y tu habilidad ahora es {hability}");
-    }
-
-    public void upHablity() {hability ++;}
-    public void upLevel() {level ++;}
 
 }
 
