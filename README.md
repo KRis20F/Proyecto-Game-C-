@@ -1,9 +1,9 @@
-# **Dossier del Juego: *Medal of Pain***
+# ** *Medal of Pain***
 
 ---
 
 ## **Descripción General del Juego**
-*Medal of Pain* es un juego de combate por turnos donde el jugador encarna a un héroe que lucha contra oleadas de enemigos, mejora sus habilidades y se enfrenta a un épico jefe final. La narrativa dinámica, eventos sorpresa y un sistema de puntuación lo convierten en una experiencia emocionante y estratégica.
+*Medal of Pain* es un juego de combate por turnos donde el jugador luchara contra oleadas de enemigos, mejora sus habilidades y se enfrenta a un épico jefe final. La narrativa dinámica, eventos sorpresa y un sistema de puntuación lo convierten en una experiencia emocionante y estratégica.
 
 ---
 
@@ -47,4 +47,8 @@
 Ejemplos:
 - *"Has lanzado un poderoso ataque infligiendo 10 puntos de daño."*
 - *"Te has defendido, reduciendo el daño recibido en un 50%."*
-- *"¡Encontraste un cofre! Tu vida se increment
+- *"¡Encontraste un cofre! Tu vida se incrementa
+
+### **Link al Diagrama UML**
+
+https://mermaid.live/view#pako:eNqtVsuOmzAU_RXk1aAyozwmMw2LSjN9qIuOVHUWlapsbsABa4ydGhOVpvn3OjYBDCahDzax7z0-91xjTrxHEY8xClFEIc_fEUgEZCvmqUdHvLcpCIgkFt7ehI9PLgVhiccgw02QMOlRvMPUDqUYqEztWEwifOU3sR0RsgCqcw9SQvRyyh5WrK3mM4XSlqJLwJpQIks7epboQXwv-kT5FkcEKC0_jmCsm-HFmuIqp1lSspHusk-QkOhcVRhTdcdJ7CVYfiIbfKniVxCC8OFODfulimvOqRcBe6Tc0WSt6Zi-JOg9w1nZlXP2XekVz0Zwd6HAOcklZhEetWkZVk2Q6Eu9aqDkI8_zD4SNrydwghkWIMfpaODHSsNb1nx919e_3lTH35nSm2Qy1Ueiw-ac9-P6IPbD1WkxCfOmGvbqFfSS9Wb1VYfeq3py1XKNoGUNQeMcvmN91y-spNs4rL4UyoxG1A8sO_G7PK4qlZGorBn9cZXA7Tx-l75_muzcoA0ZsHEehdWD_6ASWipr8r7IOjVoWgZ38imFrIb_qtHo8Hv0fY2t5HmjawHdftf-NhRID8af-3qd66BZLnjiruajt6qxL9_N6vI4F8bewC5i2GsNvrFXBa4nf9-FxedqwQGw_boHsBu00pccHAUowyIDEqt7lf7_WCGZYnVXQqEaxiBeVmjFDgoHheTPJYtQKEWBAyR4kaQo3ADN1azYxoq_upSdIFtg3zjPapCao3CPfqBwNp3eLCaL5d3s9Xy2vJ3fLgJUonByCNBPvWJyszTP_eJ-Pr1bTmcBwjGRXDxVl8Djz-E35S06iQ
